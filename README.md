@@ -1,3 +1,6 @@
+## Usage
+The CleanData.R file creates a minimal dataset called power.RData, which is used by the other scripts to generate the plots.
+
 ## Introduction
 
 This assignment uses data from
